@@ -11,43 +11,43 @@ To design and develop a comprehensive analytics dashboard that provides a clear 
 🧩 Dashboards Included
 1️⃣ Overview Dashboard
 
-Displays Total Bookings, Total Booking Value, Average Booking Value, Total Trip Distance, Average Trip Distance, and Average Trip Duration.
+•Displays Total Bookings, Total Booking Value, Average Booking Value, Total Trip Distance, Average Trip Distance, and Average Trip Duration.
 
-Includes dynamic measure selectors, conditional formatting, slicers, and tooltips for interactive exploration.
+•Includes dynamic measure selectors, conditional formatting, slicers, and tooltips for interactive exploration.
 
-Helps identify trends in bookings and revenue across different time periods and cities.
+•Helps identify trends in bookings and revenue across different time periods and cities.
 
 2️⃣ Time Analysis Dashboard
 
-Analyzes ride patterns across time intervals, days, and hours.
+•Analyzes ride patterns across time intervals, days, and hours.
 
-Visuals include:
+•Visuals include:
 
-Area Chart for 10-minute interval demand
+•Area Chart for 10-minute interval demand
 
-Line Chart for weekday vs weekend comparison
+•Line Chart for weekday vs weekend comparison
 
-Heatmap (Hour vs Day) to highlight peak booking periods
+•Heatmap (Hour vs Day) to highlight peak booking periods
 
-Supports driver scheduling and resource optimization.
+•Supports driver scheduling and resource optimization.
 
 3️⃣ Details Dashboard
 
-Provides drill-through functionality for trip-level analysis.
+•Provides drill-through functionality for trip-level analysis.
 
-Displays detailed trip information such as pickup/drop-off points, fare, and distance.
+•Displays detailed trip information such as pickup/drop-off points, fare, and distance.
 
-Includes a “View Full Data” bookmark to toggle between filtered and complete datasets.
+•Includes a “View Full Data” bookmark to toggle between filtered and complete datasets.
 
 💡 Key Insights
 
-Identified peak demand hours and popular pickup locations.
+•Identified peak demand hours and popular pickup locations.
 
-Found high-performing vehicle types contributing to greater revenue.
+•Found high-performing vehicle types contributing to greater revenue.
 
-Observed weekday and weekend booking trends for better forecasting.
+•Observed weekday and weekend booking trends for better forecasting.
 
-Enabled data-driven decisions to improve pricing strategies and driver utilization.
+•Enabled data-driven decisions to improve pricing strategies and driver utilization.
 
 ⚙️ Features Implemented
 
@@ -60,26 +60,32 @@ Enabled data-driven decisions to improve pricing strategies and driver utilizati
 
 🧠 Tools & Technologies
 
-Power BI Desktop
+•Power BI Desktop
 
-DAX (Data Analysis Expressions)
+•DAX (Data Analysis Expressions)
 
-Data Modeling & Relationships
+•Data Modeling & Relationships
 
-Power Query for Data Cleaning & Transformation
+•Power Query for Data Cleaning & Transformation
 
-Excel / CSV dataset for Uber Trips
+•Excel / CSV dataset for Uber Trips
 
 📈 Business Impact
 
 This dashboard helps Uber stakeholders:
 
-Track revenue growth and booking performance.
+•Track revenue growth and booking performance.
 
-Improve driver allocation and trip efficiency.
+•Improve driver allocation and trip efficiency.
 
-Enhance customer satisfaction through demand forecasting and pricing optimization.
+•Enhance customer satisfaction through demand forecasting and pricing optimization.
 
 🏁 Project Outcome
 
 A fully interactive Power BI dashboard that visualizes Uber’s business metrics and helps transform raw data into actionable insights — supporting strategic decision-making and operational efficiency.
+
+
+👨‍💻 Author
+
+Jeeru Vicky
+📊 Aspiring Data Analyst | Power BI | SQL | Python | Data Visualization
